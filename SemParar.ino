@@ -1,3 +1,4 @@
+/* ##I'm using a ESP8266 wemos microcontroller## */
 /*
  * #  RFID 3.3v
  *      MISO: D6
